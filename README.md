@@ -26,3 +26,29 @@ Creació d’una guia pas a pas per a l’ús del gestor de contrasenyes selecci
 ---
 
 ## Contingut del Lliurament
+tasca01/
+│
+├── README.md ← Aquest arxiu amb la descripció general
+├── informe.md ← Informe tècnic de la Fase 1
+├── guia.md ← Guia tècnica d’ús de la Fase 2
+└── img/ ← Carpeta amb imatges utilitzades a la guia
+├── instal·lacio.png
+├── configuracio.png
+├── generar-contrasenya.png
+├── desar-credencial.png
+└── backup.png
+---
+
+## Enllaços d’interès i recursos de suport
+
+- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-de-contrasenas)
+- [INCIBE: Gestores de contraseñas - Qué son y cómo pueden mejorar la seguridad](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
+- [Bitwarden (Web oficial)](https://bitwarden.com)
+- [KeePassXC (Web oficial)](https://keepassxc.org)
+
+---
+
+## Autor
+
+*Nom de l'alumne*  
+*Curs i assignatura*
