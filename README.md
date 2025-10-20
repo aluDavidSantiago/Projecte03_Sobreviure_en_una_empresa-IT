@@ -1,55 +1,97 @@
-# Projecte03_Sobreviure_en_una_empresa-IT
-# Tasca 01 - Gestió de Contrasenyes Segures
+# Alerta de Seguridad en EverPia
 
-## Descripció de la Tasca
+EverPia ha estat atacada per ciberdelinqüents. La consultora on esteu de becaris ha patit una fuita d’informació (data breach) i informació confidencial sobre un projecte que està en fase de desenvolupament està ara en mans de delinqüents que amenacen amb publicar-la si no es paga un rescat.
 
-A causa d'un incident de seguretat sofert per l'empresa EverPia, s'ha detectat que una de les causes principals ha estat l'ús de contrasenyes febles o reutilitzades en comptes tècnics. Per tal de mitigar aquest risc, la Direcció Tècnica ha decidit implementar l'ús obligatori d'un gestor de contrasenyes validat.
+Òbviament, això ha causat una gran alarma dins la companyia i s’ha creat un comitè de crisi per gestionar la situació.
 
-Aquesta tasca individual es divideix en dues fases:
-
-### Fase 1: Informe Tècnic
-Anàlisi i justificació de la decisió d’adoptar un gestor de contrasenyes, amb comparativa entre dues eines:
-
-- Bitwarden (opció en línia)
-- KeePassXC (opció fora de línia)
-
-L’objectiu és identificar l’eina més adequada per al personal tècnic de l’empresa segons criteris de seguretat, usabilitat i continuïtat del negoci.
-
-**Arxiu:** [`informe.md`](./informe.md)
-
-### Fase 2: Guia d’Ús Tècnica
-Creació d’una guia pas a pas per a l’ús del gestor de contrasenyes seleccionat, adreçada a l’equip tècnic. Inclou captures de pantalla i instruccions detallades sobre instal·lació, ús i gestió de còpies de seguretat.
-
-**Arxiu:** [`guia.md`](./guia.md)  
-**Imatges de suport:** Carpeta [`img/`](./img)
+La investigació interna ha revelat que un dels comptes tècnics va ser compromès a causa de l'ús d'una contrasenya feble o reutilitzada.
 
 ---
 
-## Contingut del Lliurament
-tasca01/
-│
-├── README.md          ← Aquest arxiu amb la descripció general  
-├── informe.md         ← Informe tècnic de la Fase 1  
-├── guia.md            ← Guia tècnica d’ús de la Fase 2  
-└── img/               ← Carpeta amb imatges utilitzades a la guia  
-    ├── instal·lacio.png  
-    ├── configuracio.png  
-    ├── generar-contrasenya.png  
-    ├── desar-credencial.png  
-    └── backup.png  
+# Objectiu de la Tasca
+
+Com a resposta a aquesta crisi, la Direcció Tècnica ha emès una directriu: tot el personal tècnic ha de començar a utilitzar un gestor de contrasenyes validat per garantir l'ús de credencials úniques i robustes. Se us encarrega la tasca d'avaluar les opcions i crear la documentació necessària per a la formació del personal.
 
 ---
 
-## Enllaços d’interès i recursos de suport
+# Fase 1: Anàlisi i Justificació (Document d'Informe)
 
-- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-de-contrasenas)
-- [INCIBE: Gestores de contraseñas - Qué son y cómo pueden mejorar la seguridad](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
-- [Bitwarden (Web oficial)](https://bitwarden.com)
-- [KeePassXC (Web oficial)](https://keepassxc.org)
+Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
+
+## Introducció i Justificació
+
+- Explicació de per què les contrasenyes febles o reutilitzades són un risc crític per a l'empresa (atac de diccionari, credential stuffing, etc.).
+- La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
+
+## Comparativa Tècnica
+
+Realitzeu una taula comparativa detallada entre:
+
+- **Bitwarden (Alternativa Online / Núvol):**  
+  Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
+
+- **KeePassX / KeePassXC (Alternativa Offline / Escriptori):**  
+  Analitzeu l'emmagatzematge local de l'arxiu (KDBX), la independència del núvol, el model open source i la portabilitat de l'arxiu.
+
+## Avantatges i Inconvenients
+
+Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de:
+
+- Seguretat
+- Usabilitat
+- Continuïtat del negoci
+
+## Recomanació
+
+Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
 ---
 
-## Autor
+# Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 
-*David Santiago Hernandez Caicedo*  
-*CFGM 2 | SEGURIDAD informatica*
+Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
+
+## Contingut de la Guia
+
+La guia ha de cobrir els següents punts obligatoris:
+
+### Instal·lació i Configuració Inicial
+
+- Descàrrega, instal·lació i creació de la base de dades principal o compte mestre.
+
+### Generació de Contrasenyes Segures
+
+- Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
+
+### Exemples d'Ús i Emplenament Automàtic
+
+- Com desar una credencial d'un compte de correu electrònic.
+- Com desar una credencial d'una aplicació o servei web.
+- Com fer servir l’extensió del navegador per emplenar automàticament les dades.
+
+### Gestió de Còpies de Seguretat (Backup)
+
+- Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
+- Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
+
+---
+
+# Entregables i Organització
+
+Es tracta d’una tasca individual.  
+
+Dins el repositori del projecte-3 heu de crear una carpeta anomenada `tasca01`, dins d’ella heu de tenir:
+
+- Un arxiu **README.md** amb la descripció de la tasca i enllaços als arxius de l’informe i la guia.
+- L’informe corresponent a la fase 1, que lliurareu en un arxiu que anomenareu **informe.md**.
+- La guia tècnica de la fase 2, que s’anomenarà **guia.md**.
+- Una carpeta específica per a les imatges que inclogui la guia (per exemple, `img`, `pics`, etc.).
+
+---
+
+# Materials i links de suport
+
+- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-de-contrasenas)  
+- [Pàgina oficial de Bitwarden](https://bitwarden.com)  
+- [Pàgina oficial de KeePassXC](https://keepassxc.org)  
+- [INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contraseñas-que-son-como-pueden-mejorar-seguridad-empresas)  
