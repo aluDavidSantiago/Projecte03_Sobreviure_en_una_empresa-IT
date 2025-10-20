@@ -28,15 +28,16 @@ Creació d’una guia pas a pas per a l’ús del gestor de contrasenyes selecci
 ## Contingut del Lliurament
 tasca01/
 │
-├── README.md ← Aquest arxiu amb la descripció general
-├── informe.md ← Informe tècnic de la Fase 1
-├── guia.md ← Guia tècnica d’ús de la Fase 2
-└── img/ ← Carpeta amb imatges utilitzades a la guia
-├── instal·lacio.png
-├── configuracio.png
-├── generar-contrasenya.png
-├── desar-credencial.png
-└── backup.png
+├── README.md          ← Aquest arxiu amb la descripció general  
+├── informe.md         ← Informe tècnic de la Fase 1  
+├── guia.md            ← Guia tècnica d’ús de la Fase 2  
+└── img/               ← Carpeta amb imatges utilitzades a la guia  
+    ├── instal·lacio.png  
+    ├── configuracio.png  
+    ├── generar-contrasenya.png  
+    ├── desar-credencial.png  
+    └── backup.png  
+
 ---
 
 ## Enllaços d’interès i recursos de suport
@@ -50,5 +51,5 @@ tasca01/
 
 ## Autor
 
-*Nom de l'alumne*  
-*Curs i assignatura*
+*David Santiago Hernandez Caicedo*  
+*CFGM 2 | SEGURIDAD informatica*
