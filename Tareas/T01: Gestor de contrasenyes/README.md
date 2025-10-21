@@ -91,5 +91,10 @@ Aquest arxiu ha d’incloure:
 
 ---
 
-💡 Si vols ajuda per redactar l’informe o la guia, només cal que m’ho demanis!
+## 📚 Materials i Enllaços de Suport
 
+- 🔗 [INCIBE: Contrasenyes segures](https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras)  
+- 🔗 [INCIBE: Gestió de contrasenyes segures](https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras)  
+- 🔗 [Pàgina oficial de Bitwarden](https://bitwarden.com/)  
+- 🔗 [Pàgina oficial de KeePassXC](https://keepassxc.org/)  
+- 🔗 [INCIBE: Gestors de contrasenyes — què són i com poden millorar la seguretat de les empreses](https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas)
