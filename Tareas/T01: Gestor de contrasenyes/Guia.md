@@ -58,11 +58,6 @@ Al iniciar sesión, verás la pantalla principal con el título **"Totes les cai
 2. **Importa dades**: Puedes importar contraseñas desde otros gestores o archivos CSV.  
 3. **Instal·la l'extensió del navegador**: Recomendado para una mejor experiencia.
 
-También verás un mensaje que dice:
-
-> **"No items in the vault"**  
-> *The vault protects more than just your passwords. Store secure logins, files, cards and notes securely here.*
-
 Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 
 ---
