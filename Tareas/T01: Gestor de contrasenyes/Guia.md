@@ -6,9 +6,6 @@ Esta guía está pensada para usuarios que desean gestionar sus contraseñas de 
 
 ## Índice
 
-
-## Índice
-
 1. [Acceso a Bitwarden Web](#1-acceso-a-bitwarden-web)  
 2. [Creación de una cuenta nueva](#2-creación-de-una-cuenta-nueva)  
 3. [Inicio de sesión](#3-inicio-de-sesión)  
