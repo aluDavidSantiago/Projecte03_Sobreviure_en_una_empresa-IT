@@ -80,16 +80,20 @@ Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 
 1. En la pantalla principal, haz clic en **"Element nou"**.  
 2. Selecciona el tipo de elemento:
+
+<img src="IMG/contenue.png" alt="Imagen contenido BitWarden, Nuevo" width="300" height="auto">
+
+
    - **Login** (inicio de sesión)
    - **Tarjeta** (datos de tarjeta de crédito)
    - **Identidad** (datos personales)
    - **Nota segura**
-3. Rellena los campos necesarios:
+4. Rellena los campos necesarios:
    - Nombre
    - Usuario
    - Contraseña
    - URL (si aplica)
-4. Haz clic en **"Desa"** para guardar.
+5. Haz clic en **"Desa"** para guardar.
 
 ---
 
