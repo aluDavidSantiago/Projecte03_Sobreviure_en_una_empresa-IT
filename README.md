@@ -27,11 +27,11 @@ Aquest projecte té com a finalitat desenvolupar i organitzar les diferents tasq
 3. Afegir un arxiu `README.md` amb:
    - 📌 Descripció del projecte
    - 📁 Relació de carpetes amb enllaços directes:
-     - [📄 Documentació](./documentació)
-     - [💻 Codi](./codi)
-     - [🎨 Disseny](./disseny)
-     - [📊 Resultats](./resultats)
-     - [🧪 Tests](./tests)
+     - 📄 Documentació
+     - 💻 Codi
+     - 🎨 Disseny
+     - 📊 Resultats
+     - 🧪 Tests
 
 ### 📌 Kanban al Planner
 1. Crear un **Planner** anomenat `projecte-3`.
