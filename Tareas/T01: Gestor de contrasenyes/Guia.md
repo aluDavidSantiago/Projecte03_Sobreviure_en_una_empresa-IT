@@ -81,7 +81,7 @@ Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 1. En la pantalla principal, haz clic en **"Element nou"**.  
 2. Selecciona el tipo de elemento:
 
-<img src="IMG/contenue.png" alt="Imagen contenido BitWarden, Nuevo" width="300" height="auto">
+<img src="IMG/contenue.png" alt="Imagen contenido BitWarden, Nuevo" width="200" height="auto">
 
 
    - **Login** (inicio de sesión)
