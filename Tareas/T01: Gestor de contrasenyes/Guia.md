@@ -22,10 +22,13 @@ Esta guía está pensada para usuarios que desean gestionar sus contraseñas de 
 
 1. Abre Google Chrome.  
 2. Dirígete a la página oficial: [https://vault.bitwarden.com](https://vault.bitwarden.com)
+<img src="IMG/1.png" alt="Imagen pagina oficial BitWarden" width="300" height="auto">
 
 ---
 
 ## 2. Creación de una Cuenta Nueva
+
+<img src="IMG/2.png" alt="Imagen de creacion cuenta BitWarden" width="300" height="auto">
 
 1. Haz clic en **"Crea un compte"** (Create Account).  
 2. Completa el formulario:
@@ -40,7 +43,7 @@ Esta guía está pensada para usuarios que desean gestionar sus contraseñas de 
 ---
 
 ## 3. Inicio de Sesión
-
+<img src="IMG/3.png" alt="Imagen inicio de secion de BitWarden" width="300" height="auto">
 1. Vuelve a [https://vault.bitwarden.com](https://vault.bitwarden.com).  
 2. Introduce tu correo electrónico y contraseña maestra.  
 3. Haz clic en **"Inicia sessió"**.
@@ -51,9 +54,12 @@ Esta guía está pensada para usuarios que desean gestionar sus contraseñas de 
 
 Al iniciar sesión, verás la pantalla principal con el título **"Totes les caixes fortes"**. Aparecerá una barra de progreso con los siguientes pasos:
 
-1. **Crear un compte** ✅ Completado  
-2. **Importa dades**: Puedes importar contraseñas desde otros gestores o archivos CSV.  
-3. **Instal·la l'extensió del navegador**: Recomendado para una mejor experiencia.
+1. **Crear un compte** ✅ Completado
+
+<img src="IMG/4.png" alt="Imagen BitWarden" width="300" height="auto">
+
+3. **Importa dades**: Puedes importar contraseñas desde otros gestores o archivos CSV.  
+4. **Instal·la l'extensió del navegador**: Recomendado para una mejor experiencia.
 
 Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 
@@ -69,6 +75,8 @@ Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 ---
 
 ## 6. Agregar un Nuevo Elemento
+
+<img src="IMG/nou.png" alt="Imagen BitWarden, Nuevo" width="300" height="auto">
 
 1. En la pantalla principal, haz clic en **"Element nou"**.  
 2. Selecciona el tipo de elemento:
@@ -87,6 +95,8 @@ Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 
 ## 7. Otras Funciones del Menú Lateral
 
+<img src="IMG/7.png" alt="Imagen Otras Funciones del Menú Lateral BitWarden, Nuevo" width="300" height="auto">
+
 - **Enviar**: Comparte información de forma segura con otros usuarios.  
 - **Dines**: Opciones relacionadas con pagos (según el plan).  
 - **Informes**: Revisión de seguridad de contraseñas y actividad.  
@@ -95,6 +105,8 @@ Haz clic en el botón azul **"Element nou"** para comenzar a agregar tus datos.
 ---
 
 ## 8. Consejos de Seguridad
+
+<img src="IMG/8dospasos.png" alt="Imagen Consejos de Seguridad BitWarden, Nuevo" width="300" height="auto">
 
 - Activa la **autenticación en dos pasos (2FA)**.  
 - Usa contraseñas únicas y complejas para cada sitio.  
