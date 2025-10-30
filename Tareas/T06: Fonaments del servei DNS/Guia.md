@@ -7,6 +7,8 @@
 ```
 dig xtec.cat A
 ```
+<img src="IMG/1.png" alt="Imagen 1" width="400" height="auto">
+
 ### Pregunta: ¿Cuál es la IP de respuesta, el valor TTL y el servidor que ha respondido a la consulta?
 
 **Respuesta:**
@@ -24,6 +26,7 @@ dig xtec.cat A
 ```
 dig tecnocampus.cat NS
 ```
+<img src="IMG/2.png" alt="Imagen 2" width="400" height="auto">
 
 ### Pregunta: ¿Cuáles son los servidores de nombres autoritativos para este dominio?
 
@@ -43,6 +46,8 @@ Los servidores NS autoritativos para `tecnocampus.cat` son:
 ```
 dig escolapia.cat SOA
 ```
+<img src="IMG/3.png" alt="Imagen 3" width="400" height="auto">
+
 ### Pregunta: ¿Cuál es la información del correo del administrador y el número de serie del dominio?
 
 **Respuesta:**
@@ -60,6 +65,8 @@ dig escolapia.cat SOA
 ```
 dig -x 147.83.2.135
 ```
+<img src="IMG/4.png" alt="Imagen 4" width="400" height="auto">
+
 ### Pregunta: ¿Qué información sobre los registros se obtiene?
 
 **Respuesta:**  
@@ -83,6 +90,8 @@ Cada uno de estos registros PTR asocia la IP con distintos servicios o subdomini
 **Comando 1: Consulta básica no autoritativa**
 
 **Acciones:**
+
+<img src="IMG/5.png" alt="Imagen 5" width="400" height="auto">
 
 - Entrar en modo interactivo con `nslookup`
 - Ejecutar:
@@ -108,6 +117,8 @@ En modo interactivo de `nslookup`, ejecutar:
 > set type=A
 > tecnocampus.cat
 ```
+<img src="IMG/6.png" alt="Imagen 6" width="400" height="auto">
+
 ### Pregunta: ¿Qué diferencias se observan respecto a la respuesta obtenida con el comando 1?
 
 **Respuesta:**  
