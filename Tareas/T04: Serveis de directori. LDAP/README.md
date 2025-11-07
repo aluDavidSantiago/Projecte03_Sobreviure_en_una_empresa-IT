@@ -54,3 +54,9 @@ Se ha redactado un documento con las especificaciones detalladas del trabajo. Es
 
 ¡Manos a la obra! Este proyecto marcará un antes y un después en la infraestructura de Innovatech 🚀
 
+## 📑 Índex de Documents
+
+1. [Objecte de l'Encàrrec](./Objecte%20de%20l'Encàrrec.md)
+2. [Requeriments d'Infraestructura Inicial](./Requeriments%20d'Infraestructura%20Inicial.md)
+3. [Tasques d'Implementació i Configuració del Servidor LDAP](./Tasques%20d'Implementació%20i%20Configuració%20del%20Servidor%20LDAP.md)
+4. [Integració de Client (Client Ubuntu Desktop)](./Integració%20de%20Client%20(Client%20Ubuntu%20Desktop).md)
