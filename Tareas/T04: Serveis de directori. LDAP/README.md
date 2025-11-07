@@ -54,9 +54,8 @@ Se ha redactado un documento con las especificaciones detalladas del trabajo. Es
 
 ¡Manos a la obra! Este proyecto marcará un antes y un después en la infraestructura de Innovatech 🚀
 
-## 📑 Índex de Documents
 
-# 📂 Documentació del Projecte (t04)
+# 📂 Documentació (T04)
 
 ## 📑 Índex de Documents
 
