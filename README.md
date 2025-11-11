@@ -1,47 +1,43 @@
-# 📁 Projecte-3
+# 📁 Proyecto-3
 
-## 🧩 PART 1. PRESENTACIÓ DEL PROJECTE I EL SEU OBJECTIU
+## 🧩 PARTE 1. PRESENTACIÓN DEL PROYECTO Y SU OBJETIVO
 
-### 🎯 Objectiu del projecte
-Aquest projecte té com a finalitat desenvolupar i organitzar les diferents tasques relacionades amb el **Projecte-3**, utilitzant eines digitals com **GitHub** i **Planner** per facilitar la gestió i seguiment del treball.
+### 🎯 Objetivo del proyecto
+Este proyecto tiene como finalidad **desarrollar y organizar las diferentes tareas relacionadas con el Proyecto-3**, utilizando herramientas digitales como **GitHub** y **Planner** para facilitar la gestión y el seguimiento del trabajo.
 
-### 🛠️ Materials i recursos
-- 💻 GitHub (repositori públic)
+### 🛠️ Materiales y recursos
+- 💻 GitHub (repositorio público)
 - 📋 Microsoft Planner (Kanban)
-- 📁 Carpetes per tasques i productes
-- 📝 Arxiu `README.md` amb descripció i enllaços
+- 📁 Carpetas para tareas y productos
+- 📝 Archivo `README.md` con descripción y enlaces
 
 ---
 
-## 🚀 PART 2. POSADA EN MARXA
+## 🚀 PARTE 2. PUESTA EN MARCHA
 
-### 🗂️ Repositori GitHub
-1. Crear un **nou repositori públic** anomenat `Projecte-3`.
-2. Dins del repositori, crear **carpetes** per a les diferents tasques i productes:
-   - `/documentació`
-   - `/codi`
-   - `/disseny`
-   - `/resultats`
+### 🗂️ Repositorio GitHub
+1. Crear un **nuevo repositorio público** llamado `Proyecto-3`.
+2. Dentro del repositorio, crear **carpetas** para las diferentes tareas y productos:
+   - `/documentación`
+   - `/código`
+   - `/diseño`
+   - `/resultados`
    - `/tests`
 
-3. Afegir un arxiu `README.md` amb:
-   - 📌 Descripció del projecte
-   - 📁 Relació de carpetes amb enllaços directes:
-     - 📄 Documentació
-     - 💻 Codi
-     - 🎨 Disseny
-     - 📊 Resultats
+3. Añadir un archivo `README.md` con:
+   - 📌 Descripción del proyecto
+   - 📁 Relación de carpetas con enlaces directos:
+     - 📄 Documentación
+     - 💻 Código
+     - 🎨 Diseño
+     - 📊 Resultados
      - 🧪 Tests
 
-### 📌 Kanban al Planner
-1. Crear un **Planner** anomenat `projecte-3`.
-2. Configurar el **tauler Kanban** amb les columnes:
+### 📌 Kanban en Planner
+1. Crear un **Planner** llamado `proyecto-3`.
+2. Configurar el **tablero Kanban** con las columnas:
    - 🔙 Backlog
-   - 🛠️ En procés
-   - ✅ Fet
+   - 🛠️ En proceso
+   - ✅ Hecho
 
-3. Introduir les tasques del **Backlog proporcionat** al tauler.
-
----
-
-💡 *Recorda mantenir el repositori actualitzat i fer servir el Kanban per seguir l'evolució del projecte!*
+3. Introducir las tareas del **Backlog proporcionado** en el 
