@@ -1,0 +1,1 @@
+https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T03-Gesti%C3%B3-flexible-de-discos/Guia.md
